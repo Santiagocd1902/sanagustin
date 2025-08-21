@@ -2,18 +2,17 @@
   {
     "nombreapp": "Adivinar",
     "descripcion": "Adivina la Fruta es un juego web interactivo desarrollado con HTML, CSS y JavaScript, diseñado para ofrecer una experiencia visual sencilla pero entretenida. El jugador observa varias imágenes de frutas en pantalla y debe seleccionar la correcta para adivinar cuál es la fruta objetivo. Gracias a la combinación de HTML para la estructura, CSS para el estilo atractivo y JavaScript para la lógica interactiva, el juego funciona de manera fluida tanto en navegadores como dentro de aplicaciones móviles mediante WebView.",
-    "icono": "   https://cdn-icons-png.flaticon.com/512/3339/3339137.png ",
-    "integrantes": ["Oscar Herrera", "Katherin Aviles"],
+    "icono": "https://www.flaticon.es/resultados?word=adivinaar",
+    "integrantes": "Oscar Herrera, Katherin Aviles",
     "actividad": "Android Studio",
-    "url": "https://drive.google.com/file/d/1KhvBqIybXU5PQai2N7CRdJ3NKAzvUbpf/view?usp=sharing"
+    "url": "https://katherin2024.github.io/AdivinarApk/"
   },
   {
     "nombreapp": "Crushed controller",
     "descripcion": "Es un juego interactivo que usa imágenes para su funcionamiento, consiste en juntar tres imágenes del mismo para así juntar puntos en un tablero hasta llegar a 5000, desarrollado con HTML, CSS, y JavaScript, su principal funcionamiento es en móviles, usando Android Studio para que sea una app.",
-    "icono": "   https://cdn-icons-png.flaticon.com/512/686/686589.png ",
-    "integrantes": ["Juan Esteban Urriago Calderon"],
+    "integrantes": "Juan Esteban Urriago Calderon",
     "actividad": "Android Studio",
-    "url": "https://drive.google.com/file/d/105SP2xXyZNvgLyhxfGtppU64VXUwHg1b/view?usp=sharing"
+    "url": "https://juanu79.github.io/-crushed-control/"
   },
   {
     "nombreapp": "Semáforo Interactivo",
